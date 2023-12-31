@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name          = 'GTelSDK'
   s.version       = '0.0.1'
   s.summary       = 'SDK for GTel'
-  s.homepage      = ''
+  s.homepage      = 'https://github.com/tranchung927/gtel-ios-sdk.git'
   s.license       = { :type => "Apache", :file => "LICENSE" }
   s.author        = { 'GTelSDK' => 'chungtv.it.1001@gmail.com' }
   s.source        = { :http => 'https://github.com/tranchung927/gtel-ios-sdk/releases/download/0.0.1/GTelSDK.xcframework.zip' }
