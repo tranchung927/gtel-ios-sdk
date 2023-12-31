@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/GTelSDK-Swift.h</key>
 		<data>
-		Rhxc7w5fzbYEF1EuEUpjdDdrZ/Y=
+		6bBDcYVC9KlDUzFuUAz1eoUNS8o=
 		</data>
 		<key>Headers/GTelSDK.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/GTelSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		JUCESahLFgwlSa5M1FiX/VDUAno=
+		iYeH9PEdBQ+M7MpYwx7tO+6rHd0=
 		</data>
 		<key>Modules/GTelSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		F0F5oel0idp5PCvx8RDIl9IJNtI=
+		+EknZwL5lpw8NKgh7BpeB/VMy8I=
 		</data>
 		<key>Modules/GTelSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/GTelSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		F0F5oel0idp5PCvx8RDIl9IJNtI=
+		+EknZwL5lpw8NKgh7BpeB/VMy8I=
 		</data>
 		<key>Modules/GTelSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7b+kLUgSlN4bTm5jshxaKzuW6UQ=
+		izsQSM6TByXTlW6FnwYc4UC4fD8=
 		</data>
 		<key>Modules/GTelSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		JUCESahLFgwlSa5M1FiX/VDUAno=
+		iYeH9PEdBQ+M7MpYwx7tO+6rHd0=
 		</data>
 		<key>Modules/GTelSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		WKD4+GuUeCbQ1m1ViBwsiou9sUs=
+		cJWQLu2Q21aejQbeye+e4hvmbtY=
 		</data>
 		<key>Modules/GTelSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/GTelSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		WKD4+GuUeCbQ1m1ViBwsiou9sUs=
+		cJWQLu2Q21aejQbeye+e4hvmbtY=
 		</data>
 		<key>Modules/GTelSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		R9b/6hiLt138xAk4v6pH8cHxa/I=
+		bVQiVRw0E3udqUv1eYs2lDZElUE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4ID2lyhv73dbDUjJot2KtQVyTZCuhXGDjU6cUzDN1uE=
+			o+bD5b9Yq4qByiPY4G7zXZX+fevGXsryTAn0f5lZHJ8=
 			</data>
 		</dict>
 		<key>Headers/GTelSDK.h</key>
@@ -81,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6uVaRo4W+3860PbJdfdv7WuH57+MykbSdPgpbNOGIAI=
+			bvnTmmwr8lPX/LEjfyHAPUEdZYofv32nhkgFQ/BhMII=
 			</data>
 		</dict>
 		<key>Modules/GTelSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			53bFm+7h5lnWVcHFj8tCHvyAv/b07Z5HaSEIv8GbCaY=
+			eOcjwGjSm9+qoaxQH80TOPEjhfcFO4Yc/OY3E2uvwOw=
 			</data>
 		</dict>
 		<key>Modules/GTelSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			53bFm+7h5lnWVcHFj8tCHvyAv/b07Z5HaSEIv8GbCaY=
+			eOcjwGjSm9+qoaxQH80TOPEjhfcFO4Yc/OY3E2uvwOw=
 			</data>
 		</dict>
 		<key>Modules/GTelSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PsOSTlIZWVKnLuljH8X2fDSm3c0ajBCN1ZDbSi95Gk4=
+			XW11wsT4L/XXsaGwlXLOpAv+egXEwVjwUsdHV1Rb5b0=
 			</data>
 		</dict>
 		<key>Modules/GTelSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6uVaRo4W+3860PbJdfdv7WuH57+MykbSdPgpbNOGIAI=
+			bvnTmmwr8lPX/LEjfyHAPUEdZYofv32nhkgFQ/BhMII=
 			</data>
 		</dict>
 		<key>Modules/GTelSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hUWN03T26whR8FdD+5cR+UV1aNvFUr1TDSisqAfniBs=
+			ztykdVwj/pAVT7EKX3KbZrwa8ZMnrM7HkDlKdGUunmE=
 			</data>
 		</dict>
 		<key>Modules/GTelSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hUWN03T26whR8FdD+5cR+UV1aNvFUr1TDSisqAfniBs=
+			ztykdVwj/pAVT7EKX3KbZrwa8ZMnrM7HkDlKdGUunmE=
 			</data>
 		</dict>
 		<key>Modules/GTelSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8LDHUA5GL6OX4FyqhpprR+A8WGJzv9Zow+2Ie+k3HtU=
+			W3TDGj8HLLKtG73L/2z9R68eQXXQyynDIrFezpEpn6k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

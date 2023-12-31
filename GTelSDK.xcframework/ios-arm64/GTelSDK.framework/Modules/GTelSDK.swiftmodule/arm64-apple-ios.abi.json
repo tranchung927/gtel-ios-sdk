@@ -16,8 +16,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "GTelSDK",
-        "printedName": "GTelSDK",
+        "name": "GTelApp",
+        "printedName": "GTelApp",
         "children": [
           {
             "kind": "Function",
@@ -26,19 +26,20 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "GTelSDK",
-                "printedName": "GTelSDK.GTelSDK",
-                "usr": "s:7GTelSDKAAC"
+                "name": "GTelApp",
+                "printedName": "GTelSDK.GTelApp",
+                "usr": "c:@M@GTelSDK@objc(cs)GTelApp"
               }
             ],
             "declKind": "Func",
-            "usr": "s:7GTelSDKAAC7instaceAByFZ",
-            "mangledName": "$s7GTelSDKAAC7instaceAByFZ",
+            "usr": "c:@M@GTelSDK@objc(cs)GTelApp(cm)instace",
+            "mangledName": "$s7GTelSDK0A3AppC7instaceACyFZ",
             "moduleName": "GTelSDK",
             "static": true,
             "declAttributes": [
               "Final",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -54,32 +55,116 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:7GTelSDKAAC4openyyF",
-            "mangledName": "$s7GTelSDKAAC4openyyF",
+            "usr": "c:@M@GTelSDK@objc(cs)GTelApp(im)open",
+            "mangledName": "$s7GTelSDK0A3AppC4openyyF",
             "moduleName": "GTelSDK",
             "declAttributes": [
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "GTelApp",
+                "printedName": "GTelSDK.GTelApp",
+                "usr": "c:@M@GTelSDK@objc(cs)GTelApp"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@GTelSDK@objc(cs)GTelApp(im)init",
+            "mangledName": "$s7GTelSDK0A3AppCACycfc",
+            "moduleName": "GTelSDK",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
           }
         ],
         "declKind": "Class",
-        "usr": "s:7GTelSDKAAC",
-        "mangledName": "$s7GTelSDKAAC",
+        "usr": "c:@M@GTelSDK@objc(cs)GTelApp",
+        "mangledName": "$s7GTelSDK0A3AppC",
         "moduleName": "GTelSDK",
         "declAttributes": [
-          "AccessControl"
+          "AccessControl",
+          "ObjCMembers",
+          "ObjC"
         ],
-        "hasMissingDesignatedInitializers": true
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
       }
     ],
     "json_format_version": 8
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/chungtv\/Documents\/GTel\/GTelSDK\/GTelSDK\/GTelSDK.swift",
+      "filePath": "\/Users\/chungtv\/Documents\/GTel\/gtel-ios-sdk\/GTelSDK\/GTelApp.swift",
       "kind": "StringLiteral",
-      "offset": 278,
+      "offset": 319,
       "length": 9,
       "value": "\"ChungTV\""
     }

@@ -8,8 +8,9 @@ import Swift
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-@_hasMissingDesignatedInitializers public class GTelSDK {
-  public static func instace() -> GTelSDK.GTelSDK
-  public func open()
+@objc @_inheritsConvenienceInitializers @objcMembers public class GTelApp : ObjectiveC.NSObject {
+  @objc public static func instace() -> GTelSDK.GTelApp
+  @objc public func open()
+  @objc override dynamic public init()
   @objc deinit
 }
