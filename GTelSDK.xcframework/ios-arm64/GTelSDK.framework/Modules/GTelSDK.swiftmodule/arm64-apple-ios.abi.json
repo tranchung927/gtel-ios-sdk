@@ -1,0 +1,87 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "GTelSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "GTelSDK",
+        "printedName": "GTelSDK",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "instace",
+            "printedName": "instace()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "GTelSDK",
+                "printedName": "GTelSDK.GTelSDK",
+                "usr": "s:7GTelSDKAAC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7GTelSDKAAC7instaceAByFZ",
+            "mangledName": "$s7GTelSDKAAC7instaceAByFZ",
+            "moduleName": "GTelSDK",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "open",
+            "printedName": "open()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7GTelSDKAAC4openyyF",
+            "mangledName": "$s7GTelSDKAAC4openyyF",
+            "moduleName": "GTelSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:7GTelSDKAAC",
+        "mangledName": "$s7GTelSDKAAC",
+        "moduleName": "GTelSDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/chungtv\/Documents\/GTel\/GTelSDK\/GTelSDK\/GTelSDK.swift",
+      "kind": "StringLiteral",
+      "offset": 278,
+      "length": 9,
+      "value": "\"ChungTV\""
+    }
+  ]
+}

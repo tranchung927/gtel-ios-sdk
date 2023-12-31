@@ -1,0 +1,11 @@
+framework module GTelSDK {
+  umbrella header "GTelSDK.h"
+  export *
+
+  module * { export * }
+}
+
+module GTelSDK.Swift {
+  header "GTelSDK-Swift.h"
+  requires objc
+}
